@@ -4,6 +4,7 @@ date: '2023-01-08'
 tags: ['test', 'code', 'features']
 draft: false
 summary: Example of a markdown file with code blocks and syntax highlighting
+images: ['/static/images/canada/toronto.jpg']
 ---
 
 A sample post with markdown.
